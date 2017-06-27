@@ -5,4 +5,3 @@
 3. 相同格式的Http请求数据统一进行预处理
 4. 如何取消一个Http请求
 5. 一个需要ProgressDialog的Subscriber该有的样子
-6....
