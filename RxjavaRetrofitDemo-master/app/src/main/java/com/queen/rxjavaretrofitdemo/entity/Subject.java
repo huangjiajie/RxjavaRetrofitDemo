@@ -3,7 +3,7 @@ package com.queen.rxjavaretrofitdemo.entity;
 import java.util.List;
 
 /**
- * Created by liukun on 16/3/5.
+ * Created by hjj.
  */
 public class Subject {
 

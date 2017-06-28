@@ -19,7 +19,7 @@ import rx.functions.Func1;
 import rx.schedulers.Schedulers;
 
 /**
- * Created by liukun on 16/3/9.
+ * Created by hjj.
  */
 public class HttpMethods {
 

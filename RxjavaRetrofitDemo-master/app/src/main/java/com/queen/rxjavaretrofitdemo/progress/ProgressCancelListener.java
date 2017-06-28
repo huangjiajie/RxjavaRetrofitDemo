@@ -1,7 +1,7 @@
 package com.queen.rxjavaretrofitdemo.progress;
 
 /**
- * Created by liukun on 16/3/10.
+ * Created by hjj.
  */
 public interface ProgressCancelListener {
     void onCancelProgress();

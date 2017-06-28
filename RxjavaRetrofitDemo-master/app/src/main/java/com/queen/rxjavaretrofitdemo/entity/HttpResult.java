@@ -1,7 +1,7 @@
 package com.queen.rxjavaretrofitdemo.entity;
 
 /**
- * Created by liukun on 16/3/5.
+ * Created by hjj.
  */
 public class HttpResult<T> {
 

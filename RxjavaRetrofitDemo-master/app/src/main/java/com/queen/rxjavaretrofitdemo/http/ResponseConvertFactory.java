@@ -10,7 +10,7 @@ import retrofit2.Converter;
 import retrofit2.Retrofit;
 
 /**
- * Created by Charles on 2016/3/17.
+ * Created by hjj.
  */
 public class ResponseConvertFactory extends Converter.Factory{
 

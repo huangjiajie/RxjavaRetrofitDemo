@@ -10,7 +10,7 @@ import retrofit2.http.Query;
 import rx.Observable;
 
 /**
- * Created by liukun on 16/3/9.
+ * Created by hjj.
  */
 public interface MovieService {
 

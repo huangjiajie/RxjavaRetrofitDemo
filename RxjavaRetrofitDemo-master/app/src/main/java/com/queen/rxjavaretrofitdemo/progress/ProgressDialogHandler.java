@@ -7,7 +7,7 @@ import android.os.Handler;
 import android.os.Message;
 
 /**
- * Created by liukun on 16/3/10.
+ * Created by hjj.
  */
 public class ProgressDialogHandler extends Handler {
 

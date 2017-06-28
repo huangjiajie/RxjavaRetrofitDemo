@@ -1,7 +1,7 @@
 package com.queen.rxjavaretrofitdemo.http;
 
 /**
- * Created by liukun on 16/3/10.
+ * Created by hjj.
  */
 public class ApiException extends RuntimeException {
 
