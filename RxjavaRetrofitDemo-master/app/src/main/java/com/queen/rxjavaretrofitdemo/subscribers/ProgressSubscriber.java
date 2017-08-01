@@ -1,4 +1,4 @@
-package com.queen.rxjavaretrofitdemo.subscribers;
+﻿package com.queen.rxjavaretrofitdemo.subscribers;
 
 import android.content.Context;
 import android.widget.Toast;
@@ -37,10 +37,12 @@ public class ProgressSubscriber<T> extends Subscriber<T> implements ProgressCanc
     }
 
     private void dismissProgressDialog(){
+
         if (mProgressDialogHandler != null) {
             mProgressDialogHandler.obtainMessage(ProgressDialogHandler.DISMISS_PROGRESS_DIALOG).sendToTarget();
             mProgressDialogHandler = null;
         }
+
     }
 
     /**
